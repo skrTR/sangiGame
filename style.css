@@ -64,6 +64,10 @@
   margin-top: 1em;
 }
 
+.sangiBody {
+  background-color: #12181b;
+}
+
 .controls button {
   color: white;
   padding: 8px;
