@@ -66,7 +66,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 announcer.innerHTML = 'Тоглогч <span class="playerX">2</span> хожлоо';
                 break;
             case TIE:
-                announcer.innerText = 'Tie';
+                announcer.innerText = 'Тэнцсэн';
         }
         announcer.classList.remove('hide');
     };
